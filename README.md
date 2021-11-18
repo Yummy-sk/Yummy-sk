@@ -1,9 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+ -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sang Kwon</h1>
 <h3 align="center">I'm a passionate Front End Developer from 🇰🇷</h3>
 <br/>
-<hr>
+<br/>
 
 ### 🙋‍♂️ About Me
 
@@ -15,7 +15,7 @@
 + 📫 Reach me: kunshup2000@gmail.com
 + ⚡️ Fun fact: I like to watch NBA 🏀
 <br/>
-<hr>
+<br/>
 
 ### 🚀  Languages and Tools:
 
@@ -32,8 +32,9 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
 <br/>
-<hr>
+<br/>
 
 ###  📊  My Github Stats
 
