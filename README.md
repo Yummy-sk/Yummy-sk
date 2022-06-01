@@ -1,6 +1,4 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
- -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">, I'm Sang Kwon</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Sang Kwon</h1>
 <h3 align="center">I'm a passionate Front End Developer from 🇰🇷</h3>
 <br/>
 <br/>
@@ -11,7 +9,6 @@
 
 + 👨‍💻 I’m currently learning Interactive UI and Back End
 + 👨‍🎓 Majer in Computer Engineering _ Jeju National Univ
-+ 🌱 Learning all about UX & UI
 + 📫 Reach me: kunshup2000@gmail.com
 + ⚡️ Fun fact: I like to watch NBA 🏀
 <br/>
